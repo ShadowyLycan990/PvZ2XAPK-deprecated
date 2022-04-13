@@ -2,7 +2,7 @@
 
 # PvZ 2 XAPK Maker
 
-A simple xapk file maker by [BP The Humanoid Primal Peashooter](https://github.com/BP-Studio990), based on [Yanshiqwq's xapk-maker](https://github.com/Yanshiqwq/xapk-maker). Focused for PvZ 2 mod distribution to ease new users on installing a PvZ 2 mods.
+A simple xapk file maker by [BP The Humanoid Primal Peashooter](https://github.com/BP-Studio990), based on [Yanshiqwq's xapk-maker](https://github.com/Yanshiqwq/xapk-maker). Focused for PvZ 2 mod distribution to ease new users on installing a PvZ 2 mods or archiving some PvZ 2 version as xapk.
 
 This tool can convert apk and obb to a xapk file easily on command line interface (CLI), **only for Microsoft Windows**.
 
