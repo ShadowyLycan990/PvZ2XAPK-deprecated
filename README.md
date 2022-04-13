@@ -27,4 +27,7 @@ Folder
 
 ## [Latest] v1.0.0.1 Changelog
  - Initial release.
- - Untested, please tell me if it had an issues.
+ - May be unstable, please tell me if it had an issues.
+
+# Releases
+[Check the releases at here!](https://github.com/BP-Studio990/PvZ2XAPK/releases)
