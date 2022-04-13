@@ -1,4 +1,4 @@
-# xapk-maker
+# PvZ 2 XAPK Maker
 
 A simple xapk file maker by [BP The Humanoid Primal Peashooter](https://github.com/BP-Studio990), based on [Yanshiqwq's xapk-maker](https://github.com/Yanshiqwq/xapk-maker). Focused for PvZ 2 mod distribution to ease new users on installing a PvZ 2 mods.
 
