@@ -47,8 +47,11 @@ Folder
  ├── manifest.json  
  └── [App name]_v[version name]-[version number].xapk
  
-# Special thanks
-Thank to @Yanshiqwq for his/her XAPK Tool repository.
+# Special thanks a.k.a credits
+- [@Yanshiqwq](https://github.com/Yanshiqwq/xapk-maker) for his/her XAPK Tool repository.
+- Igor Pavlov for [7-Zip](https://www.7-zip.org/).
+- [AAPT (Android Asset Packaging Tool)](https://developer.android.google.cn/studio/command-line/aapt2) tool from Google.
+- [Notepad++](https://notepad-plus-plus.org/)
 
 # Releases
 [Check the releases at here!](https://github.com/BP-Studio990/PvZ2XAPK/releases)
