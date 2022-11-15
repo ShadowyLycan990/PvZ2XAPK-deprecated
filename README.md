@@ -2,7 +2,7 @@
 
 # PvZ 2 XAPK Maker
 
-A simple xapk file maker by [BP The Humanoid Primal Peashooter](https://github.com/BP-Studio990), based on [Yanshiqwq's xapk-maker](https://github.com/Yanshiqwq/xapk-maker). Focused for PvZ 2 mod distribution to ease new users on installing a PvZ 2 mods or archiving some PvZ 2 version as xapk.
+A simple xapk file maker by [BP](https://github.com/BMegaGPea990), based on [Yanshiqwq's xapk-maker](https://github.com/Yanshiqwq/xapk-maker). Focused for PvZ 2 mod distribution to ease new users on installing a PvZ 2 mods or archiving some PvZ 2 version as xapk.
 
 # Warning ⚠
 - You can't use this at Android, MacOS, or Linux because this tool is only for Microsoft Windows.
@@ -48,10 +48,10 @@ Folder
  └── [App name]_v[version name]-[version number].xapk
  
 # Special thanks a.k.a credits
-- [@Yanshiqwq](https://github.com/Yanshiqwq/xapk-maker) for his/her XAPK Tool repository.
+- [@Yanshiqwq](https://github.com/Yanshiqwq/xapk-maker) for their XAPK Tool repository.
 - Igor Pavlov for [7-Zip](https://www.7-zip.org/).
 - [AAPT (Android Asset Packaging Tool)](https://developer.android.google.cn/studio/command-line/aapt2) tool from Google.
 - [Notepad++](https://notepad-plus-plus.org/)
 
 # Releases
-[Check the releases at here!](https://github.com/BP-Studio990/PvZ2XAPK/releases)
+[Check the releases at here!](https://github.com/BMegaGPea990/PvZ2XAPK/releases)
